@@ -238,6 +238,4 @@ ON a.id = o.account_id
 WHERE o.occurred_at BETWEEN '2015-01-01' AND '2016-01-01' ;
 
 
-/*
-Code End
-*/
+/*End*/
