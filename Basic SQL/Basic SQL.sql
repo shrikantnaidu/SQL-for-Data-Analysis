@@ -273,30 +273,4 @@ WHERE (name LIKE 'C%' OR name LIKE 'W%')
     AND primary_poc NOT LIKE '%eana%');
 
 
-/*
-Code End
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*End*/
